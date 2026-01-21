@@ -18,10 +18,11 @@ const DetailsSection = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                Built a modern, responsive careers portal for Recruitment
-                department of WOW Corporation, an international outsourcing and
-                contact center company operating in Ukraine (Dnipro,
-                Zaporizhzhia), Bulgaria (Plovdiv), and Azerbaijan (Baku).
+                This project is a modern, responsive careers portal for
+                Recruitment department of WOW Corporation, an international
+                outsourcing and contact center company operating in Ukraine
+                (Dnipro, Zaporizhzhia), Bulgaria (Plovdiv), and Azerbaijan
+                (Baku).
               </p>
               <p>
                 The site showcases company values, team benefits, success
